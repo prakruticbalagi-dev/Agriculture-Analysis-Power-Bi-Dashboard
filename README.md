@@ -1,4 +1,5 @@
 Agriculture Analytics Dashboard (AWS+SnowFlake+PowerBI-Dashboard)
+
 Project Overview
 
 This project focuses on analyzing agriculture data using Snowflake and Power BI to derive meaningful insights. The dashboard provides a clear visualization of crop production, rainfall patterns, and seasonal trends to support data-driven decision-making.
@@ -26,6 +27,7 @@ ________________________________________
 Dataset Description
 
 The dataset includes the following fields:
+
 •	Year
 
 •	Location
