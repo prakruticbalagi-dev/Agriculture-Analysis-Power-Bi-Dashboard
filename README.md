@@ -8,7 +8,7 @@ ________________________________________
 •	Compare production across locations and seasons
 •	Build an interactive and professional dashboard
 ________________________________________
-##Tools & Technologies Used
+#Tools & Technologies Used
 •	Snowflake (Cloud Data Warehouse)
 •	Power BI (Data Visualization)
 •	SQL (Data Processing)
